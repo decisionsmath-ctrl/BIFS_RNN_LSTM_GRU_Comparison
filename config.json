@@ -1,0 +1,25 @@
+{
+  "ticker": "AAPL",
+  "start_date": "2021-01-01",
+  "end_date": "2026-01-01",
+  "look_back": 15,
+  "train_frac": 0.7,
+  "val_frac": 0.15,
+  "target_mode": "price",
+  "units": 50,
+  "dropout": 0.2,
+  "batch_size": 16,
+  "epochs": 100,
+  "patience": 15,
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "data_dir": "data",
+  "output_dir": "results",
+  "force_download": false,
+  "show_plots": true
+}
