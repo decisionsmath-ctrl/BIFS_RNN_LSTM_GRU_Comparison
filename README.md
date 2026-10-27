@@ -1,4 +1,3 @@
-# BIFS_RNN_LSTM_GRU_Comparison.ipynb
 # BIFS: RNN vs LSTM vs GRU for Stock Price Forecasting
 
 One-day-ahead forecasting of a stock's closing price (default: AAPL, 2021-2026) with three
